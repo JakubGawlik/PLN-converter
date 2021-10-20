@@ -9,7 +9,9 @@ public class Main {
 
         KursyWalut kursyWalut = new KursyWalut();
 
-        Converter converter = new Converter(kursyWalut.getKursyWalut());
+        Converter converter = new Converter(kursyWalut.getKursyWalut(), kursyWalut.getDate(), kursyWalut.getKodyWalut());
 
+
+        //
     }
 }
