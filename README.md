@@ -1,3 +1,1 @@
-# PLN-converter-project
-
-This is window based currency converter.
+# This is window based currency converter.
